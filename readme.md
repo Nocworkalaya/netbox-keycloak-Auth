@@ -1,7 +1,4 @@
-Below is a clean README.md you can place in your repo (for example next to your keycloak_pipeline.py).
-It explains what the pipeline does, how to configure Keycloak, and how to enable it in NetBox.
 
-⸻
 
 
 # NetBox Keycloak Group Sync Pipeline
